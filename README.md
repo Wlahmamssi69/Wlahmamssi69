@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Wafa
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning React js
 - 📫 How to reach me ...wafa.lahmamssi@outlook.com
 
 <!---
